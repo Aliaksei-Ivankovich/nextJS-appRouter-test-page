@@ -1,0 +1,49 @@
+.contentWrapper {
+  margin: 0 auto;
+  padding-top: 6.25rem;
+  display: flex;
+  justify-content: center;
+  gap: 6.625rem;
+}
+
+.coopInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.phone {
+  display: flex;
+  flex-direction: column;
+}
+
+.formWrapper {
+  max-width: 36.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 3.3125rem;
+}
+
+.formTitle {
+  padding-right: 2rem;
+}
+
+
+
+
+@media (max-width: 700px) {
+ 
+}
+
+
+@media (max-width: 1120px) {
+  .contentWrapper {
+    padding: 0 0.5rem;
+    padding-top: 1rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+}
+

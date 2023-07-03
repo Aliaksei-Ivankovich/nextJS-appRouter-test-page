@@ -1,0 +1,1 @@
+export type TTypographyColor = 'primary-100' | 'primary-50';

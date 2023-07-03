@@ -1,0 +1,7 @@
+.button {
+    max-width: 13.25rem;
+    padding: 1.5rem 3.5rem;
+    border: 1px solid var(--primary-color-100);
+    background: transparent;
+    cursor: pointer;
+}

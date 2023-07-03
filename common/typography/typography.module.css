@@ -1,0 +1,43 @@
+.text12 {
+    font-size: 0.75rem;
+}
+
+.text13 {
+    font-size: 0.8125rem;
+}
+
+.text16 {
+    font-size: 1;
+}
+
+.text18 {
+    font-size: 1.125rem;
+}
+
+.text26 {
+    font-size: 1.625rem;
+}
+
+.text28 {
+    font-size: 1.75rem;
+}
+
+.text40 {
+    font-size: 2.5rem;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.primary {
+    color: var(--primary-color-100);
+}
+
+.secondary {
+    color: var(--primary-color-50);  
+}
+
+.underline {
+    text-decoration: underline;
+}

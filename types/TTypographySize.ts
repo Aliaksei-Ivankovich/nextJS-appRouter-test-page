@@ -1,0 +1,1 @@
+export type TTypographySize = '12' | '13' | '16' | '18' | '26' | '28' | '40';
